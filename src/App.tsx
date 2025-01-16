@@ -633,7 +633,7 @@ export const App = () => {
             view="primary"
             href=""
           >
-            Продолжить
+            Оформить
           </ButtonMobile>
         </div>
       )}
@@ -659,7 +659,7 @@ export const App = () => {
             view="primary"
             href=""
           >
-            Продолжить
+            Оформить
           </ButtonMobile>
         </div>
       )}
